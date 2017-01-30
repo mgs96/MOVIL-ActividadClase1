@@ -26,6 +26,12 @@
         android:layout_height="wrap_content"
         android:hint="@string/third_grade" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enviar"
+        android:onClick="sendMessage" />
+
     <TextView android:id="@+id/fourth_grade"
         android:paddingTop="10dp"
         android:layout_width="match_parent"
