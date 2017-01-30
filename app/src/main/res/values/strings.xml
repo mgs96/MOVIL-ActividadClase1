@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ActividadClase1</string>
+    <string name="first_grade">Primera nota</string>
+    <string name="second_grade">Segunda nota</string>
+    <string name="third_grade">Tercera nota</string>
+    <string name="fourth_grade">Cuarta nota</string>
 </resources>
